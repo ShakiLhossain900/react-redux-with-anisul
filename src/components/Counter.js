@@ -18,3 +18,12 @@ const Counter = () => {
 };
 
 export default Counter;
+
+
+
+//1. state count:0
+//2. actions increment decrement reset
+//3. reducer increment -> count = count + 1
+              //decrement -> count = count-1
+              //reset -> count -> 0
+//store 
